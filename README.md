@@ -58,5 +58,3 @@ Live Demo: [https://traceable-transactions.vercel.app/](https://traceable-transa
 
 ---
 
-> This DApp is deployed on the **Sepolia Testnet** for testing and demonstration purposes.  
-> Use in production only after proper auditing.
