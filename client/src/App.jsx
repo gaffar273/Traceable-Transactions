@@ -1,6 +1,6 @@
 import React from 'react'
 import { Toaster } from 'react-hot-toast'
-import Columntwo from '../page/columntwo'
+import Columntwo from '../page/Columntwo'
 import Investigation from '../page/Investigation'
 import Show from '../page/Show'
 
