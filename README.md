@@ -31,16 +31,8 @@ Live Demo: [https://traceable-transactions.vercel.app/](https://traceable-transa
 - **Frontend**: React.js  
 
 
----
 
 
 
-## 📌 Notes
 
-- **Owner**: Deployer of the contract, can record transactions and save KYC data.  
-- **Investigator**: Can flag suspicious transactions. Initially, the deployer is both owner and investigator.  
-- All transactions are stored in an array and mapped to users for easy tracking.  
-- Frontend fully integrates all smart contract features using **Ethers.js** and a responsive UI.  
-
----
 
