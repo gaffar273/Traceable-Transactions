@@ -7,6 +7,13 @@ Live Demo: [https://traceable-transactions.vercel.app/](https://traceable-transa
 
 ---
 
+⚠️ **Note**: This DApp is made to test the app easily.  
+- No wallet connect option is added.  
+- A burner wallet with a small amount of Sepolia ETH is used.  
+- The private key is imported via a `.env` file (not included in this GitHub repo).  
+
+---
+
 ## 🔹 Features
 
 ### Smart Contract Features
@@ -29,10 +36,3 @@ Live Demo: [https://traceable-transactions.vercel.app/](https://traceable-transa
 - **Blockchain Interaction**: Ethers.js  
 - **Backend**: Node.js + Express.js  
 - **Frontend**: React.js  
-
-
-
-
-
-
-
