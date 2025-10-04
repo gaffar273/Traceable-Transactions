@@ -33,21 +33,7 @@ Live Demo: [https://traceable-transactions.vercel.app/](https://traceable-transa
 
 ---
 
-## 🛠️ Functions Overview
 
-| Function | Description | Access |
-|----------|-------------|--------|
-| `recordTransaction` | Record a new transaction | Owner only |
-| `getTransaction` | Get details of a transaction by ID | Public |
-| `getUserTransactions` | List all transaction IDs of a user | Public |
-| `traceFlow` | Trace the flow of funds from an address | Public |
-| `flagTransaction` | Mark a transaction as suspicious | Investigator only |
-| `getSuspiciousTransactions` | List all suspicious transactions | Public |
-| `saveRealName` | Save real name of a user (KYC) | Owner only |
-| `checkLoop` | Detect loops in transactions | Public |
-| `getTotalTransactions` | Get total number of transactions | Public |
-
----
 
 ## 📌 Notes
 
