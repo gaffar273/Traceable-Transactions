@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-// Simple contract to track money transfers for fraud investigation
+
 contract TraceableTransactions {
 
     address public owner;
