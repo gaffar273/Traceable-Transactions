@@ -29,7 +29,7 @@ Live Demo: [https://traceable-transactions.vercel.app/](https://traceable-transa
 - **Blockchain Interaction**: Ethers.js  
 - **Backend**: Node.js + Express.js  
 - **Frontend**: React.js  
-- **Database**: (Optional if used, mention MongoDB)  
+
 
 ---
 
