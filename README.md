@@ -1,4 +1,4 @@
-# TraceableTransactions DApp
+# TraceableTransactions DAAP
 
 A **full-stack blockchain application (DApp)** to track, trace, and flag transactions for fraud investigation.  
 Built with **Solidity**, deployed on **Sepolia Testnet**, and integrated with a **MERN + Ethers.js**.
